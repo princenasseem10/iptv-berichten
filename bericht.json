@@ -1,35 +1,45 @@
 [
   {
-    "id": 3,
-    "titel": "Voor iedereen",
-    "tekst": "Dit bericht ziet elke gebruiker één keer.",
+    "id": 0,
+    "titel": "HANDLEIDING 1 - BERICHT STUREN",
+    "tekst": "Kopieer een voorbeeld hieronder, zet als id de datum van vandaag (18 juli 2026 = 20260718, tweede bericht die dag = 202607181) en pas titel, tekst en knop aan. Iedereen die daarna de app opent ziet het een keer. Komma tussen de blokjes, geen komma na het laatste blokje."
+  },
+  {
+    "id": 0,
+    "titel": "HANDLEIDING 2 - GOED OM TE WETEN",
+    "tekst": "Blokjes met id 0 ziet niemand ooit (handleiding en voorbeelden). Bericht intrekken = id terug op 0 of blokje weggooien. Wat hier staat is wat een nieuwe gebruiker krijgt, dus oud nieuws na 1-2 weken opruimen. Bezorging gebeurt bij het openen van de app; elk nummer wordt per toestel maar een keer getoond."
+  },
+  {
+    "id": 0,
+    "titel": "VOORBEELD - voor iedereen",
+    "tekst": "Dit bericht ziet elke gebruiker een keer.",
     "knop": "OK"
   },
   {
-    "id": 4,
-    "titel": "Alleen Nederlands",
-    "tekst": "Dit zien alleen gebruikers met de app in het Nederlands.",
+    "id": 0,
+    "titel": "VOORBEELD - alleen Nederlands",
+    "tekst": "Alleen voor gebruikers met de app in het Nederlands.",
     "knop": "OK",
     "taal": "nl"
   },
   {
-    "id": 5,
-    "titel": "Onderhoud provider",
-    "tekst": "Alleen voor klanten van dit serveradres.",
+    "id": 0,
+    "titel": "VOORBEELD - een provider",
+    "tekst": "Alleen voor klanten van wie het serveradres dit stukje tekst bevat.",
     "knop": "OK",
     "host": "smart-ott"
   },
   {
-    "id": 6,
-    "titel": "Update beschikbaar",
-    "tekst": "Alleen zichtbaar voor wie nog een versie ouder dan 1.1 heeft.",
+    "id": 0,
+    "titel": "VOORBEELD - oude app-versie",
+    "tekst": "Alleen voor wie een versie lager dan 1.1 heeft. Handig voor update-berichten.",
     "knop": "Updaten",
     "onderVersie": "1.1"
   },
   {
-    "id": 7,
-    "titel": "Combinatie",
-    "tekst": "Alleen Nederlandstalige klanten van deze provider.",
+    "id": 0,
+    "titel": "VOORBEELD - combinatie",
+    "tekst": "Alleen Nederlandstalige klanten van deze provider (filters combineren = alles moet kloppen).",
     "knop": "OK",
     "taal": "nl",
     "host": "smart-ott"
