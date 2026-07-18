@@ -1,6 +1,37 @@
-{
-  "id": 2,
-  "titel": "test",
-  "tekst": "there is a new version, go update your app in the app store",
-  "knop": "OK"
-}
+[
+  {
+    "id": 3,
+    "titel": "Voor iedereen",
+    "tekst": "Dit bericht ziet elke gebruiker één keer.",
+    "knop": "OK"
+  },
+  {
+    "id": 4,
+    "titel": "Alleen Nederlands",
+    "tekst": "Dit zien alleen gebruikers met de app in het Nederlands.",
+    "knop": "OK",
+    "taal": "nl"
+  },
+  {
+    "id": 5,
+    "titel": "Onderhoud provider",
+    "tekst": "Alleen voor klanten van dit serveradres.",
+    "knop": "OK",
+    "host": "smart-ott"
+  },
+  {
+    "id": 6,
+    "titel": "Update beschikbaar",
+    "tekst": "Alleen zichtbaar voor wie nog een versie ouder dan 1.1 heeft.",
+    "knop": "Updaten",
+    "onderVersie": "1.1"
+  },
+  {
+    "id": 7,
+    "titel": "Combinatie",
+    "tekst": "Alleen Nederlandstalige klanten van deze provider.",
+    "knop": "OK",
+    "taal": "nl",
+    "host": "smart-ott"
+  }
+]
