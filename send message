@@ -1,6 +1,6 @@
 {
-  "id": 0,
-  "titel": "",
-  "tekst": "",
+  "id": 1,
+  "titel": "testing the app",
+  "tekst": "there is a new version, go update your app in the app store",
   "knop": "OK"
 }
